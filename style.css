@@ -45,6 +45,10 @@
   margin: auto;
   padding: 3rem;
   box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+  text-transform: uppercase;
+  color: blueviolet;
+  transform: rotate(5deg);
+
 }
 
 .property_desc {
